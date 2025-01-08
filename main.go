@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"roman-dubovoy/go-in-memory-cache/cache"
+	"github.com/roman-dubovoy/go-in-memory-cache/cache"
 )
 
 func main() {
